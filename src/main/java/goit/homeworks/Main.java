@@ -1,4 +1,4 @@
-package IK.stream;
+package goit.homeworks;
 
 import java.util.*;
 import java.util.stream.Collectors;
